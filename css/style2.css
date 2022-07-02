@@ -1,0 +1,11 @@
+products-loop{
+    clear:both;list-style:none;margin-left:0;margin-bottom:30px
+}
+
+products-loop.grid li .products-entry .item-bottom .clear{display:none}
+
+.products-loop.grid li .products-entry .item-bottom .product_type_grouped,.products-loop.grid li .products-entry .item-bottom .product_type_external{padding:0 4px !important;margin:0 5px}
+
+.products-loop.grid li .products-entry .item-bottom .product_type_variable{padding:0 3px !important}
+.products-loop.grid li .products-entry:hover .yith-wcwl-add-to-wishlist,.products-loop.grid li .products-entry:hover .compare-button {-webkit-transition:0.3s !important;transition:0.3s !important;opacity:1 !important;visibility:visible !important}
+.products-loop.grid li .produc  ts-entry:hover .yith-wcwl-add-to-wishlist{left:0 !important}.products-loop.grid li .products-entry:hover .compare-button{right:0 !important}.products-loop.grid .desc{display:none}
