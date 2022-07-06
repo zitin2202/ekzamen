@@ -19,4 +19,5 @@ window.addEventListener('scroll',e=>{
 
     $('#sidebarCollapse').on('click', function () {
         $('#sidebar').toggleClass('active');
+        console.log('click');
     });
