@@ -9,7 +9,7 @@ products = [
     {name:'Apple iPad8',price:8000,img:'macbook-air.jpg'},
 ]
 
-alert(products[3]['img']);
+// alert(products[3]['img']);
 
 
 
