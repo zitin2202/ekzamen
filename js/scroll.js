@@ -14,10 +14,10 @@ window.addEventListener('scroll',e=>{
     // if(pageXOffset>400){
     //
     // }
-})
+});
 
 
-    $('#sidebarCollapse').on('click', function () {
-        $('#sidebar').toggleClass('active');
-        console.log('click');
-    });
+$('#sidebarCollapse').on('click', function () {
+    $('#sidebar').toggleClass('active');
+    console.log('click');
+});
